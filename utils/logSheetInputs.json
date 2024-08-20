@@ -1,0 +1,632 @@
+[
+  {
+    "task_list": "LinkedIn COPs - Adhoc/Admin",
+    "task_name": "03-Linkedin WIP Google docs",
+    "comment": "null",
+    "region": "GENERAL",
+    "gmo_lead": "Admin",
+    "type": "Report",
+    "work_type": "Report",
+    "bu": "GENERAL"
+  },
+  {
+    "task_list": "LinkedIn COPs - Adhoc/Admin",
+    "task_name": "3.KT Sessions",
+    "comment": "null",
+    "region": "GENERAL",
+    "gmo_lead": "Admin",
+    "type": "Meeting,Training & Documentation",
+    "work_type": "Meeting",
+    "bu": "GENERAL"
+  },
+  {
+    "task_list": "LinkedIn COPs - Adhoc/Admin",
+    "task_name": "5.Linkedin : Internal Meeting hours update",
+    "comment": "null",
+    "region": "GENERAL",
+    "gmo_lead": "Admin",
+    "type": "Meeting,Training & Documentation",
+    "work_type": "Meeting",
+    "bu": "GENERAL"
+  },
+  {
+    "task_list": "LinkedIn COPs - Adhoc/Admin",
+    "task_name": "9. Weekly/Monthly DSO Utilization Meeting - Hours Update",
+    "comment": "null",
+    "region": "GENERAL",
+    "gmo_lead": "Admin",
+    "type": "Report",
+    "work_type": "Report",
+    "bu": "GENERAL"
+  },
+  {
+    "task_list": "LinkedIn COPs - Adhoc/Admin",
+    "task_name": "10. Daily Hudle Call/Meeting",
+    "comment": "null",
+    "region": "GENERAL",
+    "gmo_lead": "Admin",
+    "type": "Meeting,Training & Documentation",
+    "work_type": "Meeting",
+    "bu": "GENERAL"
+  },
+  {
+    "task_list": "LinkedIn COPs - Adhoc/Admin",
+    "task_name": "11. Team Leads Weekly sync DSO/Marketers",
+    "comment": "null",
+    "region": "GENERAL",
+    "gmo_lead": "Admin",
+    "type": "Meeting,Training & Documentation",
+    "work_type": "Meeting",
+    "bu": "GENERAL"
+  },
+  {
+    "task_list": "LinkedIn COPs - Adhoc/Admin",
+    "task_name": "12. Internal Training",
+    "comment": "null",
+    "region": "GENERAL",
+    "gmo_lead": "Admin",
+    "type": "Meeting,Training & Documentation",
+    "work_type": "Meeting",
+    "bu": "GENERAL"
+  },
+  {
+    "task_list": "LinkedIn COPs - Adhoc/Admin",
+    "task_name": "14. Linkedin - Wrike/Stensul/Litmus Account Provisioning Team",
+    "comment": "null",
+    "region": "GENERAL",
+    "gmo_lead": "Admin",
+    "type": "Meeting,Training & Documentation",
+    "work_type": "Meeting",
+    "bu": "GENERAL"
+  },
+  {
+    "task_list": "LinkedIn COPs - Adhoc/Admin",
+    "task_name": "Linkedin - VRAD",
+    "comment": "null",
+    "region": "GENERAL",
+    "gmo_lead": "Admin",
+    "type": "Report",
+    "work_type": "Report",
+    "bu": "GENERAL"
+  },
+  {
+    "task_list": "LinkedIn COPs - Adhoc/Admin",
+    "task_name": "Linkedin Weekly Reporting_ Rose",
+    "comment": "null",
+    "region": "GENERAL",
+    "gmo_lead": "Admin",
+    "type": "Report",
+    "work_type": "Report",
+    "bu": "GENERAL"
+  },
+  {
+    "task_list": "LinkedIn COPs - Adhoc/Admin",
+    "task_name": "Meeting_and_Training_QA",
+    "comment": "null",
+    "region": "GENERAL",
+    "gmo_lead": "Admin",
+    "type": "Meeting,Training & Documentation",
+    "work_type": "Meeting",
+    "bu": "GENERAL"
+  },
+  {
+    "task_list": "Non Production( Client Related Hours)",
+    "task_name": "3.Linkedin - VC Bandwidth forecasting",
+    "comment": "null",
+    "region": "GENERAL",
+    "gmo_lead": "Admin",
+    "type": "Report",
+    "work_type": "Report",
+    "bu": "GENERAL"
+  },
+  {
+    "task_list": "Non Production( Client Related Hours)",
+    "task_name": "8.LinkedIn - Scorecard Report - NAMER/APAC/EMEA",
+    "comment": "null",
+    "region": "GENERAL",
+    "gmo_lead": "Admin",
+    "type": "Report",
+    "work_type": "Report",
+    "bu": "GENERAL"
+  },
+  {
+    "task_list": "Non Production( Client Related Hours)",
+    "task_name": "Wrike Hours Update-2024",
+    "comment": "null",
+    "region": "GENERAL",
+    "gmo_lead": "Admin",
+    "type": "Report",
+    "work_type": "Report",
+    "bu": "GENERAL"
+  },
+  {
+    "task_list": "Non Production( Client Related Hours)",
+    "task_name": "CSM Internal Hours",
+    "comment": "null",
+    "region": "GENERAL",
+    "gmo_lead": "Admin",
+    "type": "Report",
+    "work_type": "Report",
+    "bu": "GENERAL"
+  },
+  {
+    "task_list": "Non Production( Client Related Hours)",
+    "task_name": "LinkedIN QBR_July'2024",
+    "comment": "null",
+    "region": "GENERAL",
+    "gmo_lead": "Admin",
+    "type": "Report",
+    "work_type": "Report",
+    "bu": "GENERAL"
+  },
+  {
+    "task_list": "Non Production( Client Related Hours)",
+    "task_name": "Zamboni Orphan Campaigns",
+    "comment": "null",
+    "region": "Adhoc",
+    "gmo_lead": "Adhoc",
+    "type": "Adhoc",
+    "work_type": "Adhoc",
+    "bu": "Adhoc"
+  },
+  {
+    "task_list": "APAC (Prod)",
+    "task_name": "null",
+    "comment": "B2B - APAC - LTS",
+    "region": "APAC",
+    "gmo_lead": "Gwyneth - B2B - APAC -LHS",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LHS"
+  },
+  {
+    "task_list": "APAC (Prod)",
+    "task_name": "null",
+    "comment": "B2B - APAC - LMS",
+    "region": "APAC",
+    "gmo_lead": "Gwyneth - B2B - APAC -LMS",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LMS"
+  },
+  {
+    "task_list": "APAC (Prod)",
+    "task_name": "null",
+    "comment": "B2B - APAC - LSS",
+    "region": "APAC",
+    "gmo_lead": "Gwyneth - B2B - APAC -LSS",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LSS"
+  },
+  {
+    "task_list": "APAC (Prod)",
+    "task_name": "null",
+    "comment": "LinkedIn QA - APAC",
+    "region": "LinkedIn QA",
+    "gmo_lead": "LinkedIn QA - APAC",
+    "type": "Live Campaign",
+    "work_type": "QA",
+    "bu": "LinkedIn QA - APAC"
+  },
+  {
+    "task_list": "Consumer (Prod)",
+    "task_name": "null",
+    "comment": "Alyssa/Hava Growth",
+    "region": "Responsys Global",
+    "gmo_lead": "Consumer Growth",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "Gen Subs"
+  },
+  {
+    "task_list": "Consumer (Prod)",
+    "task_name": "null",
+    "comment": "LinkedIn QA - Lynda - Consumer",
+    "region": "LinkedIn QA",
+    "gmo_lead": "LinkedIn QA - Lynda - Consumer",
+    "type": "Live Campaign",
+    "work_type": "QA",
+    "bu": "LinkedIn QA - Lynda"
+  },
+  {
+    "task_list": "Consumer (Prod)",
+    "task_name": "null",
+    "comment": "Alyssa/Hava Premium",
+    "region": "Responsys Global",
+    "gmo_lead": "Premium",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "Gen Subs"
+  },
+  {
+    "task_list": "Consumer (Prod)",
+    "task_name": "null",
+    "comment": "Alyssa/Hava Flagship",
+    "region": "Responsys Global",
+    "gmo_lead": "Consumer Flagship",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "Gen Subs"
+  },
+  {
+    "task_list": "Consumer (Prod)",
+    "task_name": "null",
+    "comment": "Alyssa/Hava CGI",
+    "region": "Responsys Global",
+    "gmo_lead": "CGI",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "Gen Subs"
+  },
+  {
+    "task_list": "Consumer (Prod)",
+    "task_name": "null",
+    "comment": "Alyssa/Hava PMM & Brand",
+    "region": "Responsys Global",
+    "gmo_lead": "Consumer Flagship",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "Gen Subs"
+  },
+  {
+    "task_list": "EMEA (Prod)",
+    "task_name": "null",
+    "comment": "B2B - EMEA - LSS - Production",
+    "region": "EMEA",
+    "gmo_lead": "Alan - B2B - EMEA - LSS",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LSS"
+  },
+  {
+    "task_list": "EMEA (Prod)",
+    "task_name": "null",
+    "comment": "B2B - EMEA - LMS",
+    "region": "EMEA",
+    "gmo_lead": "Alan - B2B - EMEA - LMS",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LMS"
+  },
+  {
+    "task_list": "EMEA (Prod)",
+    "task_name": "null",
+    "comment": "B2B - EMEA - LHS",
+    "region": "EMEA",
+    "gmo_lead": "Alan - B2B - EMEA - LHS",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LHS"
+  },
+  {
+    "task_list": "EMEA (Prod)",
+    "task_name": "null",
+    "comment": "B2B - EMEA - BCS",
+    "region": "EMEA",
+    "gmo_lead": "Alan - B2B - EMEA - BCS",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "BCS"
+  },
+  {
+    "task_list": "EMEA (Prod)",
+    "task_name": "null",
+    "comment": "LinkedIn QA - EMEA",
+    "region": "LinkedIn QA",
+    "gmo_lead": "LinkedIn QA - EMEA",
+    "type": "Live Campaign",
+    "work_type": "QA",
+    "bu": "LinkedIn QA - EMEA"
+  },
+  {
+    "task_list": "EMEA (Prod)",
+    "task_name": "null",
+    "comment": "BCS - EMEA - Production",
+    "region": "Responsys Global",
+    "gmo_lead": "Alan - B2C - EMEA - ALL",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "Gen Subs"
+  },
+  {
+    "task_list": "LinkedIn Targeting - Adhoc",
+    "task_name": "LinkedIn T&R: Technical Knowledge Sharing",
+    "comment": "null",
+    "region": "LinkedIn T&R",
+    "gmo_lead": "Prateek - T&R - International",
+    "type": "Meeting,Training & Documentation",
+    "work_type": "Training",
+    "bu": "LinkedIn T&R"
+  },
+  {
+    "task_list": "LinkedIn Targeting - Adhoc",
+    "task_name": "Linkedin T&R : Training and Meeting hours update",
+    "comment": "null",
+    "region": "LinkedIn T&R",
+    "gmo_lead": "Prateek - T&R - International",
+    "type": "Meeting,Training & Documentation",
+    "work_type": "Meeting",
+    "bu": "LinkedIn T&R"
+  },
+  {
+    "task_list": "LinkedIn Targeting - Adhoc",
+    "task_name": "null",
+    "comment": "T&R - INTERNATIONAL",
+    "region": "LinkedIn T&R",
+    "gmo_lead": "Prateek - T&R - INTERNATIONAL",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LDC"
+  },
+  {
+    "task_list": "LinkedIn Targeting - EMEA",
+    "task_name": "null",
+    "comment": "T&R - INTERNATIONAL",
+    "region": "LinkedIn T&R",
+    "gmo_lead": "Prateek - T&R - INTERNATIONAL",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LSS"
+  },
+  {
+    "task_list": "LinkedIn Targeting - APAC",
+    "task_name": "null",
+    "comment": "T&R - INTERNATIONAL",
+    "region": "LinkedIn T&R",
+    "gmo_lead": "Prateek - T&R - INTERNATIONAL",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LSS"
+  },
+  {
+    "task_list": "LinkedIn Targeting - NAMER/Global",
+    "task_name": "BBR IC job check",
+    "comment": "null",
+    "region": "LinkedIn T&R - Adhoc",
+    "gmo_lead": "LinkedIn T&R - Adhoc",
+    "type": "LinkedIn T&R - Adhoc",
+    "work_type": "LinkedIn T&R - Adhoc",
+    "bu": "LinkedIn T&R - Adhoc"
+  },
+  {
+    "task_list": "LinkedIn Targeting - NAMER/Global",
+    "task_name": "null",
+    "comment": "T&R - NAMER",
+    "region": "LinkedIn T&R",
+    "gmo_lead": "Prateek - T&R - NAMER",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LDC"
+  },
+  {
+    "task_list": "LSMS NAMER (Prod)",
+    "task_name": "null",
+    "comment": "LinkedIn QA - NAMER - LMS",
+    "region": "LinkedIn QA",
+    "gmo_lead": "LinkedIn QA - NAMER - LMS",
+    "type": "Live Campaign",
+    "work_type": "QA",
+    "bu": "LinkedIn QA - NAMER"
+  },
+  {
+    "task_list": "LSMS NAMER (Prod)",
+    "task_name": "null",
+    "comment": "B2B - NAMER - LMS Customer",
+    "region": "LMS NAMER",
+    "gmo_lead": "Stephanie - B2B - NAMER - LMS Customer",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LMS"
+  },
+  {
+    "task_list": "LSMS NAMER (Prod)",
+    "task_name": "null",
+    "comment": "B2B - NAMER - LMS Dem Gen",
+    "region": "LMS NAMER",
+    "gmo_lead": "Shawn - B2B - NAMER - LMS Demand Gen",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LMS"
+  },
+  {
+    "task_list": "LSMS NAMER (Prod)",
+    "task_name": "null",
+    "comment": "B2B - NAMER - LSS Dem Gen",
+    "region": "LSS NAMER",
+    "gmo_lead": "Dale - NAMER - LSS DG",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LSS"
+  },
+  {
+    "task_list": "LSMS NAMER (Prod)",
+    "task_name": "null",
+    "comment": "B2B - NAMER - LSS Customer",
+    "region": "LSS NAMER",
+    "gmo_lead": "Dylan – B2B - NAMER - LSS Customer",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LSS"
+  },
+  {
+    "task_list": "LSMS NAMER (Prod)",
+    "task_name": "null",
+    "comment": "B2C - NAMER - LSS Dem Gen",
+    "region": "Responsys Global",
+    "gmo_lead": "Dale - NAMER - LSS DG",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LSS"
+  },
+  {
+    "task_list": "LSMS NAMER (Prod)",
+    "task_name": "null",
+    "comment": "B2C - NAMER - LSS Customer",
+    "region": "Responsys Global",
+    "gmo_lead": "Dylan - B2C - NAMER - LSS Customer",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LSS"
+  },
+  {
+    "task_list": "LSMS NAMER (Prod)",
+    "task_name": "null",
+    "comment": "B2C - NAMER - LMS Dem Gen",
+    "region": "Responsys Global",
+    "gmo_lead": "Shawn - B2C - NAMER - LMS Demand Gen",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LMS"
+  },
+  {
+    "task_list": "LSMS NAMER (Prod)",
+    "task_name": "null",
+    "comment": "B2C - NAMER - LMS Customer",
+    "region": "Responsys Global",
+    "gmo_lead": "Shawn - B2B - NAMER - LMS Customer",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LMS"
+  },
+  {
+    "task_list": "LTS Acq (Prod)",
+    "task_name": "null",
+    "comment": "LTS Acquisition - Hire - QA",
+    "region": "LinkedIn QA",
+    "gmo_lead": "LinkedIn QA - LTS Acquistion",
+    "type": "Live Campaign",
+    "work_type": "QA",
+    "bu": "LinkedIn QA - LTS Acquistion"
+  },
+  {
+    "task_list": "LTS Acq (Prod)",
+    "task_name": "null",
+    "comment": "LinkedIn QA - LTS Acquisition",
+    "region": "LinkedIn QA",
+    "gmo_lead": "LinkedIn QA - LTS Acquistion",
+    "type": "Live Campaign",
+    "work_type": "QA",
+    "bu": "LinkedIn QA - LTS Acquistion"
+  },
+  {
+    "task_list": "LTS Acq (Prod)",
+    "task_name": "null",
+    "comment": "LTS Acquisition - Learn - QA",
+    "region": "LinkedIn QA",
+    "gmo_lead": "LinkedIn QA - LTS Acquistion",
+    "type": "Live Campaign",
+    "work_type": "QA",
+    "bu": "LinkedIn QA - LTS Acquistion"
+  },
+  {
+    "task_list": "LTS Acq (Prod)",
+    "task_name": "null",
+    "comment": "LTS Acquisition - Hire - Production",
+    "region": "LTS - Acquisition",
+    "gmo_lead": "Emily - LTS Hire - Dem Gen",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LHS"
+  },
+  {
+    "task_list": "LTS Acq (Prod)",
+    "task_name": "null",
+    "comment": "LTS Acquisition - Hire - Edits",
+    "region": "LTS - Acquisition",
+    "gmo_lead": "Emily - LTS Hire - Dem Gen",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LHS"
+  },
+  {
+    "task_list": "LTS Acq (Prod)",
+    "task_name": "null",
+    "comment": "LTS Acquisition - Hire",
+    "region": "LTS - Acquisition",
+    "gmo_lead": "Emily - LTS Hire - Dem Gen",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LHS"
+  },
+  {
+    "task_list": "LTS Acq (Prod)",
+    "task_name": "null",
+    "comment": "LTS Acquisition - Hire - Deployed",
+    "region": "LTS - Acquisition",
+    "gmo_lead": "Emily - LTS Hire - Dem Gen",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LHS"
+  },
+  {
+    "task_list": "LTS Acq (Prod)",
+    "task_name": "null",
+    "comment": "LTS Acquisition - Learn",
+    "region": "LTS - Acquisition",
+    "gmo_lead": "LTS Acquisition - Learn",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LHS"
+  },
+  {
+    "task_list": "LTS Customer (Prod)",
+    "task_name": "null",
+    "comment": "LinkedIn QA - LTS Customer",
+    "region": "LinkedIn QA",
+    "gmo_lead": "LinkedIn QA - LTS Customer",
+    "type": "Live Campaign",
+    "work_type": "QA",
+    "bu": "LinkedIn QA - LTS Customer"
+  },
+  {
+    "task_list": "LTS Customer (Prod)",
+    "task_name": "null",
+    "comment": "Allison - LTS - Customer - IM & Field Mktg",
+    "region": "LTS - Customer",
+    "gmo_lead": "LTS - Customer - IM & Field Mktg",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LHS"
+  },
+  {
+    "task_list": "LTS Customer (Prod)",
+    "task_name": "null",
+    "comment": "Lauren -LTS - Customer – Life Cycle",
+    "region": "LTS - Customer",
+    "gmo_lead": "Lauren - LTS - Customer - Life Cycle",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LHS"
+  },
+  {
+    "task_list": "LTS Customer (Prod)",
+    "task_name": "null",
+    "comment": "Hava-Lithograph",
+    "region": "Responsys Global",
+    "gmo_lead": "Hava-Lithograph",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "Gen Subs"
+  },
+  {
+    "task_list": "Research Ops",
+    "task_name": "null",
+    "comment": "Research Ops - Niel",
+    "region": "Research Ops",
+    "gmo_lead": "Research Ops - Niel",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "Research Ops"
+  },
+  {
+    "task_list": "Web QA",
+    "task_name": "Deploy QA - Microsites",
+    "comment": "null",
+    "region": "LinkedIn Web Marketing",
+    "gmo_lead": "Michael - LinkedIn Web Marketing",
+    "type": "Live Campaign",
+    "work_type": "QA",
+    "bu": "LinkedIn Web Marketing"
+  }
+]
