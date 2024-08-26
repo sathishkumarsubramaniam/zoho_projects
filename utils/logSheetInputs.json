@@ -202,6 +202,16 @@
   {
     "task_list": "APAC (Prod)",
     "task_name": "null",
+    "comment": "B2B - EMEA - LMS",
+    "region": "EMEA",
+    "gmo_lead": "Alan - B2B - EMEA - LMS",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LMS"
+  },
+  {
+    "task_list": "APAC (Prod)",
+    "task_name": "null",
     "comment": "LinkedIn QA - APAC",
     "region": "LinkedIn QA",
     "gmo_lead": "LinkedIn QA - APAC",
@@ -272,7 +282,17 @@
   {
     "task_list": "EMEA (Prod)",
     "task_name": "null",
-    "comment": "B2B - EMEA - LSS - Production",
+    "comment": "B2B - EMEA - LSS",
+    "region": "EMEA",
+    "gmo_lead": "Alan - B2B - EMEA - LSS",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LSS"
+  },
+  {
+    "task_list": "EMEA (Prod)",
+    "task_name": "null",
+    "comment": "B2B - EMEA - LSS - Deployed",
     "region": "EMEA",
     "gmo_lead": "Alan - B2B - EMEA - LSS",
     "type": "Live Campaign",
@@ -312,12 +332,32 @@
   {
     "task_list": "EMEA (Prod)",
     "task_name": "null",
+    "comment": "B2B - EMEA - LTS",
+    "region": "EMEA",
+    "gmo_lead": "Alan - B2B - EMEA - LHS",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LHS"
+  },
+  {
+    "task_list": "EMEA (Prod)",
+    "task_name": "null",
     "comment": "LinkedIn QA - EMEA",
     "region": "LinkedIn QA",
     "gmo_lead": "LinkedIn QA - EMEA",
     "type": "Live Campaign",
     "work_type": "QA",
     "bu": "LinkedIn QA - EMEA"
+  },
+  {
+    "task_list": "EMEA (Prod)",
+    "task_name": "null",
+    "comment": "B2B - EMEA - LLS",
+    "region": "Lynda - B2B - EMEA",
+    "gmo_lead": "Alan - B2B - EMEA - LLS",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "Lynda"
   },
   {
     "task_list": "EMEA (Prod)",
@@ -484,7 +524,7 @@
     "task_name": "null",
     "comment": "B2C - NAMER - LMS Customer",
     "region": "Responsys Global",
-    "gmo_lead": "Shawn - B2B - NAMER - LMS Customer",
+    "gmo_lead": "Stephanie - B2C - NAMER - LMS Customer",
     "type": "Live Campaign",
     "work_type": "Production",
     "bu": "LMS"
@@ -563,6 +603,26 @@
     "task_list": "LTS Acq (Prod)",
     "task_name": "null",
     "comment": "LTS Acquisition - Learn",
+    "region": "LTS - Acquisition",
+    "gmo_lead": "LTS Acquisition - Learn",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LHS"
+  },
+  {
+    "task_list": "LTS Acq (Prod)",
+    "task_name": "null",
+    "comment": "LTS Acquisition - Learn - Production",
+    "region": "LTS - Acquisition",
+    "gmo_lead": "LTS Acquisition - Learn",
+    "type": "Live Campaign",
+    "work_type": "Production",
+    "bu": "LHS"
+  },
+  {
+    "task_list": "LTS Acq (Prod)",
+    "task_name": "null",
+    "comment": "LTS Acquisition - Learn - Deployed",
     "region": "LTS - Acquisition",
     "gmo_lead": "LTS Acquisition - Learn",
     "type": "Live Campaign",
